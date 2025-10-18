@@ -32,7 +32,7 @@ Bu proje kapsamında:
 
 ## Örnek Ekranlar
 
-### 🧾 Müşteri Hesap Yönetimi
+###  Müşteri Hesap Yönetimi
 Kullanıcıların sahip olduğu tüm yatırım hesaplarını görüntüleme, yeni hesap ekleme, portföy detaylarını inceleme ve bakiye kontrolü işlemleri yapılabilir.  
 Ayrıca bireysel ve kurumsal müşteri tipleri arasında geçiş yapılabilir.
 
